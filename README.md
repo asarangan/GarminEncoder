@@ -1,1 +1,1 @@
-# Garmin Encoder
+# Garmin Knob Encoder
